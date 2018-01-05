@@ -1,2 +1,2 @@
-# Recommandation-System
+# Recommendation-System
 Project in Big Data Class
